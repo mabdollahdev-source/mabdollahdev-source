@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi, I'm Mustafa 👋
 
-<!--
-**mabdollahdev-source/mabdollahdev-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP Developer | Laravel | Backend Development
 
-Here are some ideas to get you started:
+I'm a PHP developer focused on building maintainable, scalable, and reliable web applications using Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm continuously improving my backend development skills, software architecture knowledge, and database engineering practices.
+
+🚀 Current Focus
+
+- Advanced PHP & Laravel Development
+- RESTful API Design
+- Software Architecture & SOLID Principles
+- Database Design & Optimization
+- Livewire, Alpine.js & Tailwind CSS
+- Automated Testing
+- Docker & Deployment
+
+🛠️ Tech Stack
+
+Backend
+
+- PHP
+- Laravel
+- MySQL
+- REST APIs
+
+Frontend
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Alpine.js
+- Livewire
+
+Tools
+
+- Git & GitHub
+- VS Code
+- Composer
+- Docker
+
+📚 Currently Learning
+
+Advanced Laravel Development and Professional Software Engineering Practices.
+
+📫 Connect With Me
+
+- GitHub: https://github.com/mabdollahdev-source
+- Email: m.abdollah.dev@gmail.com
+- LinkedIn: [Your LinkedIn Profile]
